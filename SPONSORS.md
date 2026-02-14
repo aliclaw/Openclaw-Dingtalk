@@ -21,11 +21,23 @@ OpenClaw DingTalk Skills 是一个完全免费、开源的项目。我投入了�
 
 <img src=".sponsors/wechat-qr.png" alt="微信支付二维码" width="200">
 
+**如何添加收款码：**
+1. 打开微信 → 我 → 服务 → 收付款
+2. 点击"二维码收款"
+3. 保存收款码，命名为 `wechat-qr.png`
+4. 替换 `.sponsors/wechat-qr.png`
+
 ### 🇨🇳 支付宝
 
 扫描下方二维码赞助：
 
 <img src=".sponsors/alipay-qr.png" alt="支付宝二维码" width="200">
+
+**如何添加收款码：**
+1. 打开支付宝 → 搜索"收款码"
+2. 点击"保存收款码"
+3. 命名为 `alipay-qr.png`
+4. 替换 `.sponsors/alipay-qr.png`
 
 ### 🌟 GitHub Sponsors
 
